@@ -5,6 +5,7 @@ Each movie can be tagged with either one or more genres (for eg. a movie can be 
 
 
 Files:
+	
 	- 1_DataCleaning.ipynb : Code to clean up messy genres, keep only top 12 most occuring genres and merge the plots dataset with the movie metadata dataset
 
 	- 2_Mainfile.ipynb : Code for creating word embeddings, implementation of LSTM and model evaluation
